@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "JetBrains2021TestDiffDll", "JetBrains2021TestDiffDll.fsproj", "{4AB395BC-AB99-4FDE-8340-A4C3F784A2EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{3320E971-E448-475A-8C5A-34AA4997C247}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{4AB395BC-AB99-4FDE-8340-A4C3F784A2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AB395BC-AB99-4FDE-8340-A4C3F784A2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AB395BC-AB99-4FDE-8340-A4C3F784A2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3320E971-E448-475A-8C5A-34AA4997C247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3320E971-E448-475A-8C5A-34AA4997C247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3320E971-E448-475A-8C5A-34AA4997C247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3320E971-E448-475A-8C5A-34AA4997C247}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
